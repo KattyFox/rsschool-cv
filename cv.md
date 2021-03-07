@@ -15,6 +15,7 @@ function squareDigits(num){
 }
 ```
 #### Work experience
+
 | Plugin | README |
 | ------ | ------ |
 | RS school studies | https://app.rs.school/ |
