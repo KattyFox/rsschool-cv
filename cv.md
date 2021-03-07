@@ -17,7 +17,7 @@ function squareDigits(num){
 #### Work experience
 | Plugin | README |
 | ------ | ------ |
-| RS school studies | [https://app.rs.school/][PlDb] 
+| RS school studies | [https://app.rs.school/][PlDb] |
 | GitHub | [https://github.com/KattyFox/][PlGh] |
 
 
