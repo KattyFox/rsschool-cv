@@ -1,0 +1,26 @@
+main {
+
+}
+
+article {
+    margin: auto;
+    width: 40em;
+}
+body {
+    background-color: whitesmoke;
+  }
+
+  footer {
+      text-align: center;
+  }
+  #ava {
+      width: 10em;
+      height: 10em;
+      float: right;
+  }
+
+  .codeSample {
+      background-color: #ffffff;
+      margin: 10px;
+      padding: 12px;
+  }
